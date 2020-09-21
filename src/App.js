@@ -52,13 +52,6 @@ class App extends React.Component {
     })
   }
 
-  setOrderSummary = () => {
-    let c = this.state.cart;
-    this.setState({
-      cart: {},
-      orderSumray: c
-    })
-  }
   refreshContent = () => {
     this.setState({
       paymentSummary: {},
@@ -66,6 +59,15 @@ class App extends React.Component {
       orderSumray: {}
     })
   }
+
+  setOrderSummary = () => {
+    let c = this.state.cart;
+    this.setState({
+      cart: {},
+      orderSumray: c
+    })
+  }
+
 
   render() {
     return (
