@@ -1,0 +1,23 @@
+
+.navbar{
+    background-color: lightyellow;
+   
+}
+.btns>input{
+    border:1px solid lightblue;
+    border-radius: 5px;
+    width:600px;
+    padding-left: 20px;
+    font-size: 1.5em;
+    margin-right: 10px;    
+}
+#headbtns{
+    font-size:1.4em;
+    font-weight: bolder;
+    margin-left:50px ;
+}
+.btns{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+

@@ -1,0 +1,17 @@
+.products{
+    display: flex;
+    flex-wrap:wrap ;
+    
+}
+.card{
+    border: 1px solid gray;
+    margin: 10px;
+    border-radius: 5px;
+    padding:30px;
+    box-shadow: 5px 5px gray;
+    }
+    
+    .cardBtns{
+        display:flex;
+        justify-content: space-around;
+    }
