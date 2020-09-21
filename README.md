@@ -6,7 +6,7 @@ It simple ecommerce  project based on React.js, It is dummy mobile shopping site
 1. react-router, (For Routing)
 2. react-Formik and react-Yup, (For Validation) 
 
-#Bootstrap used:
+# Bootstrap used:
 https://www.w3schools.com/bootstrap/default.asp
 
 # ScreenShots for project.
