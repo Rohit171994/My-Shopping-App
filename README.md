@@ -19,7 +19,9 @@ https://www.w3schools.com/bootstrap/default.asp
 ![](https://github.com/Rohit171994/My-Shopping-App/blob/master/details.png)
 3.Cart:
 ![](https://github.com/Rohit171994/My-Shopping-App/blob/master/cart.png)
-4. Order:
+4.Payment:
+![](https://github.com/Rohit171994/My-Shopping-App/blob/master/payment.png)
+6. Order:
 ![](https://github.com/Rohit171994/My-Shopping-App/blob/master/order.png)
-5.Order Summary
+7.Order Summary
 ![](https://github.com/Rohit171994/My-Shopping-App/blob/master/ordersummary.png)
