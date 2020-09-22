@@ -9,7 +9,7 @@ It simple ecommerce  project based on React.js, It is dummy mobile shopping site
 # Bootstrap used:
 https://www.w3schools.com/bootstrap/default.asp
 
-# ScreenShots for project.
+# ScreenShots of the project.
 1. HomePage: part 1
 ![](https://github.com/Rohit171994/My-Shopping-App/blob/master/home1.png)
              part 2
