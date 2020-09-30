@@ -1,6 +1,9 @@
 # My-Shopping-App
 It simple ecommerce  project based on React.js, It is dummy mobile shopping site for purchasing some.
 
+# APP url
+https://shop-app-rohit.herokuapp.com/
+
 
 # Some libraries used:
 1. react-router, (For Routing)
